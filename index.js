@@ -128,7 +128,7 @@ async function main() {
     // 2. Invia una piccola quantità di SOL (es. 0.001 SOL)
     // Nota: Per eseguire questo, il wallet del mittente DEVE avere SOL (Lamports) su devnet.
     // Puoi inviare SOL al mittente Keypair (mostrato sopra) tramite un faucet devnet.
-    const amountToSend = 4;
+    const amountToSend = 9;
     await sendSol(senderKeypair, recipientKey, amountToSend);
 
     // 3. Verifica il saldo del mittente dopo l'invio

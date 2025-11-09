@@ -13,7 +13,7 @@ la sender_secret_key bisogna metterci la chiave privata del profilo holosim dal 
 
 il receiver è la public key di chi poi li riceve
 
-l'rpc_service è il servizio rpc nel caso di holosim basta usare lo stesso che usa il bot sly per holo 
+l'rpc_service è il servizio rpc nel caso di solana usare un rpc per la devnet o mainnet, per holosim dato che è una rete diverse bisogna usare lo stesso che usa il bot sly per holosim 
 
 
 ne spedisce direttamente 9 
